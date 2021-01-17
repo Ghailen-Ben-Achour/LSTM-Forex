@@ -12,7 +12,7 @@ validation folder contains tha validation dataset.<br />
 ## Genetic Algorithm
 We used the genetic algorithm in order to define:
 1. Which is the best time step for each model (time step is the time between two consecutive candlesticks which can be in our case 1hour, 2hours or 4hours).
-1. Which are the forex pairs to neglect as an input (sometimes there are some inputs that should not be considered. An example for that: the Japanese yen (Jpy) has no influence on the canadian dollar (CAD) in this case we should set JPY to 0).
+1. Which are the forex pairs to neglect as an input (sometimes there are some inputs that affect badly the performance of our model and should not be considered. An example for that: the Japanese yen (Jpy) has no influence on the Canadian dollar (CAD) in this case we should set JPY to 0).
 ## Code
 in order the run the code:
 
