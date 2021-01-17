@@ -3,4 +3,4 @@ The goal of this project is to extract live market data, use it to train a LSTM 
 ## Models
 Each model takes as an input the candlestick values, during the past 3 months, of 28 different forex pairs such as EUR/USD, EUR/CAD...<br />
 We feed the model from data stored in CSV files using Ctrader.<br />
-![Ctrader](https://circlemarkets.com/wp-content/uploads/2018/11/circle-markets-cTrader.gif)
+![Ctrader](https://forexclub.pl/wp-content/uploads/2020/01/ctrader-opinie.jpg)
